@@ -1,5 +1,5 @@
 To run Dockerfile first we need to build it.
-` image build . -t hari `
+``` image build . -t hari ```
 
 Now 
 ` docker images | grep hari `
