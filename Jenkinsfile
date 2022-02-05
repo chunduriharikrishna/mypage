@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Pull Dockerfile') {
       steps {
-        sh 'docker file pulled successfully!'
+        echo 'Docker file pulled successfully!'
       }
     }
 
