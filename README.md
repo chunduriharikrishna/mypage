@@ -1,6 +1,6 @@
 To run Dockerfile first we need to build it
 
-``` image build . -t hari ```
+``` docker image build . -t hari ```
 
 Now 
 
